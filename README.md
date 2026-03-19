@@ -6,6 +6,8 @@ The project includes multiple game modes, persistent player statistics, and a ga
 
 This project was developed as part of an introductory programming course during my first year of Computer Science studies.
 
+---
+
 ## 🚀 Features
 
 ### 🧠 Smart Computer Opponent
@@ -14,7 +16,6 @@ This project was developed as part of an introductory programming course during 
   - advancing toward the winning area
   - preferring more central board positions
 
----
 
 ### 👥 Multiple Game Modes
 - Supports 2, 3, 4, or 6 players
@@ -23,26 +24,22 @@ This project was developed as part of an introductory programming course during 
   - a basic computer opponent (random moves)
   - a smart computer opponent (heuristic-based)
 
----
 
 ### 💾 Persistent Player Statistics
 - Stores all-time player data in JSON
 - Tracks wins and losses across games
 - Automatically loads and saves player data
 
----
 
 ### 🏆 Winning Table
 - Displays players who have won games
 - Shows cumulative performance over time
 
----
 
 ### 🎨 Colored Terminal Board
 - Uses `colorama` for colored output
 - Improves readability of the board in the terminal
 
----
 
 ### 🔁 Game Logging and Replay
 - Saves game activity into log files
@@ -50,7 +47,6 @@ This project was developed as part of an introductory programming course during 
   - replaying completed games
   - continuing unfinished games from saved logs
 
----
 
 ### 🔍 Type Checking
 - Uses type hints and `mypy`
