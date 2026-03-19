@@ -6,8 +6,6 @@ The project includes multiple game modes, persistent player statistics, and a ga
 
 This project was developed as part of an introductory programming course during my first year of Computer Science studies.
 
----
-
 ## 🚀 Features
 
 ### 🧠 Smart Computer Opponent
